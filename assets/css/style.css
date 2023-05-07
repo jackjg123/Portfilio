@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  padding: 40px;
+  background-color: #ff2400;
+  color: black;
+}
+
+nav {
+  display: flex;
+  background-color: gray;
+
+}
+
+nav a {
+  color: white;
+  padding: 15px 20px;
+
+}
+
+body {
+  background-color: black;
+  color: white;
+}
