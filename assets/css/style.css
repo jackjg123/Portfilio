@@ -22,7 +22,7 @@ h1 {
 nav ul li {
   display: inline-block;
   padding: 10px 20px;
-  list-style-type: none;
+
 }
 
 nav ul li a {
@@ -34,4 +34,29 @@ nav ul li a {
 nav ul li a:hover {
   color: black;
   transition: .3s;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+}
+
+.aboutme,
+.mywork,
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding-top: 40px;
+  padding-left: 40px;
+}
+
+.vlabout,
+.vlwork,
+.vlcontact {
+  border-right: 3px solid navy;
+  border-width: 3px;
+  height: 500px;
+  margin-right: 20px;
+  width: 6%;
 }
