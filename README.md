@@ -2,8 +2,13 @@
 
 This is my portfolio that showcases my skills and applications in front-end,back-end, and full-stack web-development. I designed this portfolio for future employers and users with detailed descriptions of my abilities and accomplishments. This application provides the user with easy access to this information and prevents timely research into the different aspects provided in my portfolio. This application helped me learn about my own journey to becoming a proffesional web-developer.
 
-## Usage
+## Table of Contents
 
+-N/A
+
+## How to Run
+
+As long as the user has a device with web browsing capabilities, the user should be able to access the site by entering the URL into an address bar.
 
 ## Features
 
@@ -24,8 +29,10 @@ This is my portfolio that showcases my skills and applications in front-end,back
 8. A responsive layout that adapts to the users viewport, allowing proper visibility for various screens and devices.
 
 ## Requirements
-  
-  - An internet browser
-  - Internet access
-  - The funtional URL
-  - A device with the functionalities above
+
+- An internet browser
+- Internet access
+- The funtional URL
+- A device with the functionalities above
+
+##b URL
